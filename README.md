@@ -1,15 +1,11 @@
 <h1 align="center">Hello 👋, I'm Anchal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [roadmap](https://github.com/anchal7545/roadmap)
-
 - 🌱 I’m currently learning **Django, GraphQL**
 
 - 👨‍💻 All of my projects are available at [https://profound-bunny-84edd7.netlify.app/](https://profound-bunny-84edd7.netlify.app/)
 
 - 💬 Ask me about **MERN,Postgres,SQL,Nestjs**
-
-- 📫 How to reach me **qanchal5657@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
